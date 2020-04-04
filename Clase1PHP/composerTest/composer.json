@@ -1,0 +1,12 @@
+{
+    "name": "sofiadb/composer-test",
+    "authors": [
+        {
+            "name": "SofiaBarreiro",
+            "email": "barreirosofia@hotmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
+}
